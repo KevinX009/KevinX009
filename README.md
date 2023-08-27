@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KevinX009
-- 👀 I’m interested in java script
+- 👀 I’m interested in becoming an Ethical hacking
 - 🌱 I’m currently learning html,css,js,python
 - 💞️ I’m looking to collaborate on ../
 - 📫 you can reach me by mail ("kelvingodguy111@gmail.com")
